@@ -1,5 +1,5 @@
 let massiv = []
-
+let massiv2 =[]
 $(".Add").on("click",() => {
     let URL = $("#URL").val()
     let name = $("#name").val()
